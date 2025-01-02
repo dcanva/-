@@ -1,1 +1,874 @@
-# -
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+  <title>Owais & Zulaikha</title>
+
+  <style>
+    .fs {
+      font-size: 50px;
+    }
+
+
+    .fcw {
+      color: white;
+      ;
+    }
+  </style>
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <h1>Owais & Zulaikha</h1>
+
+
+  <header>
+
+    <nav class=" navbar navbar-expand-lg navbar-light bg-light fixed-top ">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#owzu">WELCOME
+          خوش آمدید
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+            <li class="nav-item">
+              <a class="nav-link text-danger" href="#bro ">O & Z</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#Events" id="navbarDropdown" role="button"
+                data-bs-toggle="dropdown" aria-expanded="false">
+                Events
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#naat1">Naat Shareef</a></li>
+                <li><a class="dropdown-item" href="#nikkah2">Nikkah</a></li>
+                <li><a class="dropdown-item" href="#mehndi3">Mehandi</a></li>
+                <li><a class="dropdown-item" href="#wannah4">Wannah</a></li>
+
+
+
+
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item" href="#wed5">Wedding</a></li>
+                <li><a class="dropdown-item" href="#valima6">Valima</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="#footer" tabindex="-1" aria-disabled="false">Contact Us</a>
+            </li>
+          </ul>
+          <form class="d-flex">
+            <input type="date" id="calendar" style="padding: 10px; width: 100%;" onchange="displayDate()">
+            <p id="selectedDate"></p>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+
+    <h1 id="owzu"></h1>
+    <br><br><br><br>
+
+
+    <div style="display: flex;justify-content: center;">
+
+
+      <div class="  " style="width: 18rem;">
+        <img src="owais & Zulaikha3.png" class="card-img-top" alt="...">
+        <div class="">
+
+        </div>
+      </div>
+
+
+
+    </div>
+
+
+    <br><br><br><br>
+
+    <br><br><br><br>
+
+    <br><br><br><br>
+
+    <div style="padding:50px  ;">
+
+
+
+
+
+
+
+
+
+
+
+      <div class="card bg-dark text-white">
+        <img src="OWAIS AND ZULAIKHA.jpg" class="card-img" alt="...">
+        <div class="card-img-overlay">
+
+        </div>
+      </div>
+
+      <h1 id="bro" style="display: flex;justify-content: center;"> Warm Welcome From The Family</h1>
+
+      <p>Dear Family and Friends,
+
+        On behalf of Owais and Zulaikha, we extend our heartfelt thanks for joining us in celebrating this special
+        occasion. Your presence means the world to us, and we are so grateful to share these precious moments with you.
+        We hope you enjoy every moment of the celebration, and we look forward to making beautiful memories together.
+        With love,<br>
+        The NoorWala Family</p>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <br><br><br><br><br><br><br><br><br><br>
+
+
+    <div>
+
+      <div style="padding: 200px;background-color: darkgrey ;">
+
+
+        <h1 style="font-family: 'Times New Roman', Times, serif;">Wedding Wishes for Owais & Zulaikha</h1>
+
+        <h4>Dear Owais and Zulaikha,</h4>
+
+        <p>Today marks the beginning of a beautiful new chapter in your lives, and we couldn’t
+          be happier to witness this special moment. May your union be filled with endless love, laughter,
+          and unwavering support for each other.
+
+          Owais, as you take Zulaikha's hand, may you always cherish and protect her with all your heart. Zulaikha,
+          as you walk beside Owais, may your days together be filled with joy and understanding, creating memories that
+          last a lifetime.
+
+          Together, may you both build a life full of happiness, respect, and the kind of love that only grows stronger
+          with time.
+          May your journey together be blessed, and may you always find comfort and strength in each other’s presence.
+        </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+
+    </div>
+
+
+
+    <br><br><br><br><br><br>
+
+
+    <div>
+
+      <div class=" shadow p-3 mb-5 bg-body rounded d-flex justify-content-center "> Functions </div>
+
+      <br><br>
+
+
+    </div>
+
+
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="naat (2).jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="n1 (1).jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="n1 (2).jpg" class="d-block w-100" alt="...">
+        </div>
+
+        <div class="carousel-item">
+          <img src="wannah.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="wedding.jpg" class="d-block w-100" alt="...">
+        </div>
+
+        <div class="carousel-item">
+          <img src="valima.jpg" class="d-block w-100" alt="...">
+        </div>
+
+
+
+
+
+
+      </div>
+
+    </div>
+
+
+    <br><br><br>
+    <hr><br><br><br>
+
+
+
+
+    <div class="d-flex justify-content-center ">
+
+      <h1>"بَارَكَ اللَّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ"</h1>
+
+
+    </div>
+
+
+
+
+    <br><br><br>
+    <hr>
+
+
+
+
+
+
+  </header>
+
+  <!-- main start -->
+
+  <main>
+    <div id="naat1" class="d-flex justify-content-center">
+
+      <div class="shadow-lg p-3 mb-5 bg-body rounded">First Event "Naat Khuwani"</div>
+
+
+    </div>
+
+
+    <div class="d-flex justify-content-center">
+
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="Naat Khuwani.png" class="d-block w-100" alt="...">
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+    </div>
+    </div>
+    </div>
+    <br><br>
+    <div class=" d-flex justify-content-center">
+
+      <div class="card" style="width: 18rem;">
+        <img src="Bagh-e-Bahar Lawn.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Naat Khuwani</h5>
+          <p class="card-text">BAGH-E-BAHAR</p>
+          <a href="#" class="btn btn-dark">Scan QR For Location</a>
+        </div>
+      </div>
+    </div>
+
+    <hr>
+    <hr><br><br><br>
+
+
+    <!-- shadow -->
+
+    <div id="nikkah2" class=" d-flex justify-content-center">
+
+
+      <div class="shadow-lg p-3 mb-5 bg-body rounded">Second Event "Nikkah"</div>
+
+
+    </div>
+
+    <!-- nikkah  day event-->
+
+    <div>
+
+
+      <div class="d-flex justify-content-center">
+
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="NIKKAH (2).png" class="d-block w-100" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+      <div class="card" style="width: 18rem;">
+        <img src="Aqsa Masjid.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Nikkah (Day Event)</h5>
+          <p class="card-text">Aqsa Masjid</p>
+          <a href="#" class="btn btn-dark">Scan QR For Location</a>
+        </div>
+      </div>
+    </div>
+
+
+    <br><br>
+    <hr>
+    <!-- nikkah  Night event-->
+
+    <div>
+
+
+      <div class="d-flex justify-content-center">
+
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="NIKKAH (1).png" class="d-block w-100" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+      <div class="card" style="width: 18rem;">
+        <img src="Bagh-e-Bahar Lawn.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Nikkah (Night Event)</h5>
+          <p class="card-text">BAGH-E-BAHAR</p>
+          <a href="#" class="btn btn-dark">Scan QR For Location</a>
+        </div>
+      </div>
+    </div>
+
+    <br><br>
+    <hr>
+    <hr>
+
+    <div id="mehndi3" class="d-flex justify-content-center">
+
+      <div class="shadow-lg p-3 mb-5 bg-body rounded">Third Event "Mehendi"</div>
+
+    </div>
+
+    <!-- mehendi -->
+
+
+
+    <div>
+
+
+      <div class="d-flex justify-content-center">
+
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="mehndi-removebg-preview.png" class="d-block w-100" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+      <div class="card" style="width: 18rem;">
+        <img src="MEHENDI QAWALI.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text"></p>
+
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class=" d-flex justify-content-center">
+
+      <div class="card" style="width: 18rem;">
+        <img src="Pakistan Maritime Museum.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text"></p>
+          <h5 class="card-title">Mehendi & Qawali Night</h5>
+          <p class="card-text">Pakistan Maritime Museum</p>
+          <a href="#" class="btn btn-dark">Scan QR For Location</a>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <br><br>
+    <hr>
+    <hr>
+
+
+
+
+
+    <div id="wannah4" class="d-flex justify-content-center">
+
+      <div class="shadow-lg p-3 mb-5 bg-body rounded">Fourth Event "Wannah"</div>
+
+    </div>
+
+    <!-- wannah -->
+
+
+
+    <div>
+
+
+      <div class="d-flex justify-content-center">
+
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="wan.jpg" class="d-block w-100" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+
+      <div class="card bg-dark text-white">
+        <img src="Wedding .jpg" class="card-img" alt="...">
+        <div class="card-img-overlay">
+
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+      <div class="card" style="width: 18rem;">
+        <img src="Aasha Lawn.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text"></p>
+          <h5 class="card-title">Wannah</h5>
+          <p class="card-text">Aasha Lawn</p>
+          <a href="#" class="btn btn-dark">Scan QR For Location</a>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <br><br>
+    <hr>
+    <hr>
+
+
+
+
+
+    <div id="wed5" class="d-flex justify-content-center">
+
+      <div class="shadow-lg p-3 mb-5 bg-body rounded">Fifth Event "Wedding"</div>
+
+    </div>
+
+    <!-- wedding/shaddi -->
+
+
+
+    <div>
+
+
+      <div class="d-flex justify-content-center">
+
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="shaddi-removebg-preview.png" class="d-block w-100" alt="...">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+
+      <div class="card bg-dark text-white">
+        <img src="Shaddi 01.jpg" class="card-img" alt="...">
+        <div class="card-img-overlay">
+
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+      <div class="card" style="width: 18rem;">
+        <img src="_Grand Palace.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text"></p>
+          <h5 class="card-title">Wedding</h5>
+          <p class="card-text">Grand Palace</p>
+          <a href="#" class="btn btn-dark">Scan QR For Location</a>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <br><br>
+    <hr>
+    <hr>
+
+
+
+
+    <div id="valima6" class="d-flex justify-content-center">
+
+      <div class="shadow-lg p-3 mb-5 bg-body rounded">Sixth Event "Valima"</div>
+
+    </div>
+
+    <!-- Valimah -->
+
+
+
+
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+
+      <div class="card bg-dark text-white">
+        <img src="20 january.jpg" class="card-img" alt="...">
+        <div class="card-img-overlay">
+
+        </div>
+      </div>
+
+
+
+
+    </div>
+
+    <br><br>
+
+    <div class=" d-flex justify-content-center">
+
+      <div class="card" style="width: 18rem;">
+        <img src="Sadabahar Banquet.png" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p class="card-text"></p>
+          <h5 class="card-title">Valima</h5>
+          <p class="card-text">Sadabahar Banquet</p>
+          <a href="#" class="btn btn-dark">Scan QR For Location</a>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <br><br>
+    <hr>
+    <hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </main>
+
+
+
+
+  <br><br><br><br>
+
+  <footer id="footer" class="bg-danger text-white d-flex justify-content-center ">
+
+    <div style="list-style: none;" class="mx-5 ">
+      <h1> Need Help?</h1>
+      <li>Contact :</li>
+      <p>+92 3260772651</p>
+
+
+    </div>
+
+    <div style="list-style: none;">
+      <h1>Be aware of your surroundings</h1>
+      <li>Keep your bag secure</li>
+      <li>Stay calm</li>
+      <li>Weapons are not allowed</li>
+    </div>
+
+
+
+  </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script>
+    function displayDate() {
+      const selectedDate = document.getElementById('calendar').value;
+      document.getElementById('selectedDate').innerText = 'Selected Date: ' + selectedDate;
+    }
+
+
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Optional JavaScript; choose one of the two! -->
+
+  <!-- Option 1: Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+
+  <!-- Option 2: Separate Popper and Bootstrap JS -->
+  <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>
